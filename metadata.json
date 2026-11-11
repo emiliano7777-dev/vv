@@ -1,0 +1,6 @@
+{
+  "name": "Sonrisa FOM - UABC Mexicali",
+  "description": "Plataforma informativa de servicios odontológicos y tratamientos de la Facultad de Odontología UABC, campus Mexicali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
